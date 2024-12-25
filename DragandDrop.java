@@ -12,7 +12,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class DragandDrop {
-	//drangan drop class name
+	//drangan drop class name has been changed now
 
 	public static void main(String[] args) {
 
