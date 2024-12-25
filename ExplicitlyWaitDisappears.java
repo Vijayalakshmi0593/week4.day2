@@ -11,6 +11,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class ExplicitlyWaitDisappears {
+	//Explicitwait
 
 	public static void main(String[] args) {
 		WebDriverManager.chromedriver().setup();
